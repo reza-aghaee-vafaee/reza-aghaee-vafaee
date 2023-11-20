@@ -1,4 +1,5 @@
-```while(alive){
+```
+while(alive){
   work();
   progress();
 }
